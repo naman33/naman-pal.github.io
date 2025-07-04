@@ -38,8 +38,6 @@ Here’s a quick look at the homepage of the site:
 
 ![Portfolio Screenshot](./screenshot.png)
 
-_(Make sure to place a file named `screenshot.png` in the root directory of your repository for this to render properly.)_
-
 ---
 
 ## Get in Touch
