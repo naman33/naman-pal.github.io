@@ -1,42 +1,49 @@
-# 🌟 Personal Portfolio Website
+# Personal Portfolio Website
 
-Hey there! 👋  
 Welcome to my personal portfolio — a space where I share who I am, what I do, and the work I’m proud of.
 
-This site is more than just a bunch of code — it's a reflection of my journey, skills, and the projects that have helped me grow as a developer and data analyst.
+This site reflects my journey as a developer and data analyst. It’s designed to be simple, responsive, and easy to navigate. Every section is built with purpose: to showcase my work, skills, and how I can add value.
 
 ---
 
-## 📌 What’s Inside
+## Overview
 
-### 🧑‍💻 About the Website
-I built this portfolio using **HTML**, **CSS**, and **JavaScript** — keeping things clean, responsive, and easy to navigate. It's designed to look good on all devices and give a smooth experience whether you're on a phone or a desktop.
+### About the Website
+This portfolio is built using **HTML**, **CSS**, and **JavaScript**. It's fully responsive, loads fast, and is easy to maintain. The goal was to create something clean, professional, and informative.
 
-### 📄 Pages You'll Find
-- **Home/Landing Page** – A quick intro and overview of who I am.
-- **Resume Page** – My complete resume with education, experience, and skills.
-- **Projects Page** – Highlights of my favorite work, what I built, and what tools I used.
-- **Contact Page** – Ways to get in touch if you want to chat, collaborate, or hire me.
+### Pages Included
+- **Home/Landing Page** – Introduction and overview.
+- **Resume Page** – Detailed resume with education, experience, and technical skills.
+- **Projects Page** – Selected projects with brief descriptions and technologies used.
+- **Contact Page** – A simple form and contact information.
 
-### 🛠 Features
-- Clean, organized code (makes updates easier!)
-- Fully responsive design
-- Focus on user-friendly layout and flow
-- Built from scratch — no fancy frameworks here!
-
----
-
-## 🚀 Live Site
-
-Check it out here: [https://naman-pal.github.io](https://naman-pal.github.io)  
-_(If it’s not live yet, I’m probably just making a few final tweaks!)_
+### Key Features
+- Clean and well-organized codebase
+- Mobile-friendly responsive design
+- Straightforward navigation and layout
+- Built from scratch without using external frameworks
 
 ---
 
-## 🤝 Let’s Connect
+## Live Preview
 
-If you’re a recruiter, a fellow developer, or just someone curious — feel free to reach out through the contact form on the site or connect with me on LinkedIn/GitHub.
+Visit the live website here:  
+**[https://naman-pal.github.io](https://naman-pal.github.io)**
 
-Thanks for stopping by! 😊
+---
 
-— Naman Pal
+## Screenshot
+
+Here’s a quick look at the homepage of the site:
+
+![Portfolio Screenshot](./screenshot.png)
+
+_(Make sure to place a file named `screenshot.png` in the root directory of your repository for this to render properly.)_
+
+---
+
+## Get in Touch
+
+If you're a recruiter, a developer, or someone interested in collaborating — feel free to reach out via the contact form on the website or through my social profiles.
+
+Thanks for visiting!
