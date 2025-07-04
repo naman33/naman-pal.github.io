@@ -36,7 +36,8 @@ Visit the live website here:
 
 Here’s a quick look at the homepage of the site:
 
-![Portfolio Screenshot](./screenshot.png)
+!![image](https://github.com/user-attachments/assets/e6b48f08-eb89-48c6-8907-5dbdb3291186)
+(./screenshot.png)
 
 _(Make sure to place a file named `screenshot.png` in the root directory of your repository for this to render properly.)_
 
