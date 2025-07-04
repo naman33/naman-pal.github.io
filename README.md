@@ -35,7 +35,8 @@ Visit the live website here:
 ## Screenshot
 
 Here’s a quick look at the homepage of the site:
-(./screenshot.png)
+
+![Portfolio Screenshot](./screenshot.png)
 
 _(Make sure to place a file named `screenshot.png` in the root directory of your repository for this to render properly.)_
 
